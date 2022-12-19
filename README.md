@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joaoaoluiz@proton.me**
 
-- 📄 Know about my experiences [https://pdfhost.io/pdf/11773491-b3fa-4c53-b4a5-e835ba08411a/dd12ec37-8f71-454a-aa36-874273dc2115.pdf](https://pdfhost.io/pdf/11773491-b3fa-4c53-b4a5-e835ba08411a/dd12ec37-8f71-454a-aa36-874273dc2115.pdf)
+- 📄 Know about my experiences [here](https://pdfhost.io/pdf/11773491-b3fa-4c53-b4a5-e835ba08411a/dd12ec37-8f71-454a-aa36-874273dc2115.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
