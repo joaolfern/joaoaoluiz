@@ -1,13 +1,9 @@
-<h1 align="center">Howdy 👋, I'm João</h1>
-<h3 align="center">I make rad stuff using software 🛹</h3>
+<h1 align="center">Sup👋, I'm João</h1>
+<h3 align="center">I make computers do backflips🛹</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaoaoluiz" alt="joaoaoluiz" /></a> </p>
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **joaoaoluiz@proton.me**
-
-- 📄 Know about my experiences [here](https://pdfhost.io/pdf/11773491-b3fa-4c53-b4a5-e835ba08411a/dd12ec37-8f71-454a-aa36-874273dc2115.pdf)
+- 💬 Usually on the front-end
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
