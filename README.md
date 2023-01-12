@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/joaoaoluiz">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=joaoaoluiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaoaoluiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=00000000"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaoluiz&layout=compact&langs_count=7&theme=dracula&bg_color=00000000"/>
   </a>
 </div>
