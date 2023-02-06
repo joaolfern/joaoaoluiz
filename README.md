@@ -8,8 +8,6 @@
 <ul>
   <li>Usually working on the front-end</li>
   <li>Can center a DIV 99% of the times</li>
-  <li>Believes technology should be used towards common good</li>
-  <li>Hard committer (no pun intended)</li>
   <li>Sometimes googles GIT's weird commands</li>
   <li>Speaks Brazilian and Americano</li>
 </ul>
